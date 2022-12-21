@@ -1,0 +1,19 @@
+{
+  "fruit": [
+    {
+      "id": 1,
+      "name ": "apple",
+      "vday": 14
+    }
+  ],
+  "starters": [
+    {
+      "id": 1,
+      "name": "pudding",
+      "vday": 12
+    }
+  ],
+  "owner": {
+    "name": "claudio"
+  }
+}
